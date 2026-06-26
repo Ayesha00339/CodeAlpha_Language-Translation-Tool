@@ -1,4 +1,4 @@
-# # 🌍 Language Translation Tool
+# #  🌍 Language Translation Tool
 
 A modern and user-friendly **🌐 LinguaFlow – AI Language Translation Tool** built with **Python** and **Streamlit**. The application allows users to translate text between multiple languages using free online translation APIs. It provides an intuitive interface with features such as automatic language detection, translation history, language swapping, and one-click copy functionality.
 
